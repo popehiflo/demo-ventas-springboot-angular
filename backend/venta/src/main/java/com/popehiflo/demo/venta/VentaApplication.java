@@ -1,4 +1,4 @@
-package com.popehiflo.demo;
+package com.popehiflo.demo.venta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
